@@ -25,23 +25,11 @@
 | Model Used           | Accuracy | MAE   | Notable Features                            |
 |----------------------|----------|-------|----------------------------------------------|
 | Random Forest        | High     | Low   | Good baseline performance, explainability    |
-| LSTM                 | High     | Low   | Time-series sensitivity, long memory depth   |
-| Ensemble (GRU+XGB)   | Very High| Very Low | Best overall predictive performance       |
+| Ensemble (GRU+XGB)   | High     | Low   | Best overall predictive performance       |
+| LSTM                 | Very High| Very Low   | Time-series sensitivity, long memory depth   |
 
 > 📌 The LSTM model yielded the lowest training error and highest predictive consistency for grinding time optimization.
 
----
-
-## 📈 Visuals
-
-<p float="left">
-  <img src="figures/lstm_plot.png" width="45%" />
-  <img src="figures/powerbi_dashboard.png" width="45%" />
-</p>
-
-> Visualizations show actual vs predicted grinding parameters and quality outcomes using ML models and dashboards.
-
----
 
 ## 🧭 Use Cases & Applications
 
@@ -61,7 +49,7 @@
 ## 📫 Contact
 
 - 📧 Email: maulik.ramani23@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 🔗 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/maulik-ramani/)  
 - 🏙️ Location: Siegen, Germany
 
 ---
