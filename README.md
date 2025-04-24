@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figures/thesis-banner.png" width="90%" alt="Thesis Banner">
+  <img src="thesis-banner.png" width="90%" alt="Thesis Banner">
 </p>
 
 
