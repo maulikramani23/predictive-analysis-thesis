@@ -28,9 +28,9 @@ By designing a structured SQL-based data infrastructure and integrating models s
 
 | Category             | Tools & Methods                                      |
 |----------------------|------------------------------------------------------|
-| Languages            | Python, SQL, MATLAB                                  |
+| Languages            | Python, SQL, MATLAB, C / C++ / C#                    |
 | ML Models            | LSTM, GRU, Random Forest, SVM, XGBoost, CatBoost     |
-| Libraries & Tools    | Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn     |
+| Libraries & Tools    | Scikit-learn, Pandas, NumPy, Matplotlib, Visual Studio|
 | Visualization        | Power BI, Jupyter Notebooks                          |
 | Data Infrastructure  | PostgreSQL, SQL Server, TwinCAT, KPNT (Herkules)     |
 | Hardware Context     | EtherCAT, PLCs, CNC Systems, MES/SCADA integration   |
