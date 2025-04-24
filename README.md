@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="figures/thesis-banner.png" width="90%" alt="Thesis Banner">
+</p>
+
+
 # 🛠️ Analysis of Production Data and Predictive Analytics in Machine Tool Manufacturing
 
 > 🎓 Master's Thesis | Chair of Business Information Systems and New Media  
