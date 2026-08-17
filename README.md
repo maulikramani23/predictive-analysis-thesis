@@ -7,7 +7,7 @@
 
 > 🎓 Master's Thesis | Chair of Business Information Systems and New Media  
 > 🏢 In collaboration with Maschinenfabrik Herkules GmbH & Co. KG  
-> 🧑‍💻 Author: Maulik Ramani | University of Siegen  
+> 🧑‍💻 Author: Maulik Ramani | University of Applied Sciences Ravensburg-Weingarten  
 > 📅 Date: January 29, 2025
 
 ---
